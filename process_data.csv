@@ -1,0 +1,16 @@
+heat_number,metal_type,input_mass,output_mass,temperature,scrap_grade,flux,operator
+4501,Copper,1000,891,1450,HMS1,40,Ahmed
+4502,Copper,1200,1080,1465,HMS2,52,Ahmed
+4503,Copper,950,760,1430,WEEE,38,Tariq
+4504,Copper,1100,1012,1455,HMS1,45,Tariq
+4505,Copper,1080,875,1440,WEEE,60,Ahmed
+4506,Copper,980,892,1460,HMS1,41,Samir
+4507,Copper,1150,,1445,HMS2,50,Samir
+4508,Copper,1000,905,1470,WEEE,55,Ahmed
+4509,Copper,1200,1140,1480,HMS1,44,Tariq
+4510,Copper,950,700,1420,WEEE,65,Samir
+4511,Copper,1100,1023,1455,HMS1,43,Ahmed
+4512,Copper,1080,974,1450,HMS2,51,Tariq
+4513,Copper,,891,1440,HMS1,42,Samir
+4514,Copper,1000,150,1430,WEEE,70,Ahmed
+4515,Copper,1100,1045,1460,HMS1,45,Tariq
