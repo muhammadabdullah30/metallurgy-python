@@ -52,4 +52,4 @@ Engineer — Specialisation in Sustainable Process
 Metallurgy and Metal Recycling  
 github.com/muhammadabdullah30
 
-Linkedin(muhammad-abdullah-72100053-)
+[Linkedin](muhammad-abdullah-72100053-)
